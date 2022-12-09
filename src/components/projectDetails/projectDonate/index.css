@@ -1,0 +1,10 @@
+.project_progress_detail{
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.project_progress_number{
+    font-size: 2rem;
+    color: #faad14;
+}
